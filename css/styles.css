@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins';
+}
+
+.title{
+    text-decoration: underline;
+}
+
+.carousel-inner .carousel-item img{
+    height: 60vh;
+}
+
+.texto-carousel{
+    font-size: 1.1rem;
+    text-shadow: 2px 2px #000;
+}
